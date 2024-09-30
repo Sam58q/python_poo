@@ -13,4 +13,4 @@ class Pessoa:
 pessoa1 = Pessoa("Geraldo","Corredor","Rua 10 Cohab")
 pessoa1.exibirDados()
 
-pessoa2 = pessoa("Karla", "Artes Marciais", "Av")
+pessoa2 = Pessoa("Karla", "Artes Marciais",)
