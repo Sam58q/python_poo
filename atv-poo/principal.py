@@ -1,4 +1,4 @@
-from questão1 import Funcionario
+from questao1 import Funcionario
 
 funcionario1 = Funcionario("Paulin","ADM", 2400)
 funcionario2 = Funcionario("Jão","Tecnico",1600)
